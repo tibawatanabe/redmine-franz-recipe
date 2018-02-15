@@ -1,0 +1,16 @@
+{
+  "name": "redmine-franz-recipe",
+  "version": "1.0.0",
+  "description": "Taqtile's Redmine Franz Recipe",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indigotech/redmine-franz-recipe.git"
+  },
+  "author": "Tiba <tibawatanabe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indigotech/redmine-franz-recipe/issues"
+  },
+  "homepage": "https://github.com/indigotech/redmine-franz-recipe#readme"
+}
