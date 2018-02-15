@@ -1,0 +1,20 @@
+{
+  "id": "redmine",
+  "name": "redmine",
+  "version": "1.0.0",
+  "description": "Redmine",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indigotech/redmine-franz-recipe.git"
+  },
+  "author": "tibawatanabe <tibawatanabe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indigotech/redmine-franz-recipe/issues"
+  },
+  "homepage": "https://github.com/indigotech/redmine-franz-recipe#readme",
+  "config": {
+    "serviceURL": "http://redmine.taqtile.com/"
+  }
+}
