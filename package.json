@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/indigotech/redmine-franz-recipe#readme",
   "config": {
-    "serviceURL": "http://redmine.taqtile.com/"
+    "serviceURL": "http://redmine.taqtile.com/timesheet"
   }
 }
